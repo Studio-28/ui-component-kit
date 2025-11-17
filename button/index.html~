@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Test du Composant Bouton</title>
+    <link rel="stylesheet" href="bouton.css">
+</head>
+<body>
+    <h1>Mes Boutons UI</h1>
+    
+    <!-- Utilisation des composants -->
+    <a href="#" class="btn btn-primary">Bouton Primaire</a>
+    <button class="btn btn-secondary">Bouton Secondaire</button>
+
+    <script src="button.js"></script>
+</body>
+</html>
